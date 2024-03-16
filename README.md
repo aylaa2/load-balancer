@@ -1,9 +1,7 @@
-**Nume:Zeitouni Aila**
-**Grupă:313CA**
 
-## Load Balancer + Tema 2
+## Load Balancer 
 
-### Descriere:
+
 
 * the server.c contains the hashtable from the lab 
 server.h - structures for the load balancer from the lab 
@@ -47,13 +45,5 @@ char *get_info_value(info *pair);
 void free_info(info *pair); --> those srtruces i added in here so that the load balancer can see them.
 
 
-* the files used are : server.h server.c load_balancer.h load_balancer.c utils.h main.c and Makefile 
 
- 
 
-### (Opțional) Resurse / Bibliografie:
-
-1. [Așa se adaugă un link în Markdown](https://youtu.be/dQw4w9WgXcQ)
-
-PS: OCW strică link-ul, trebuie să puneți ***doar*** https-ul intre ().
-sd lab 04.
